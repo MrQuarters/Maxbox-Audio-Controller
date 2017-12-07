@@ -22,4 +22,5 @@ V2 Changelist:
 - XBox Controller image is no longer hidden while patch is locked
 
 To do:
+
 -Include brighter and more colorful UI options (under consideration)
